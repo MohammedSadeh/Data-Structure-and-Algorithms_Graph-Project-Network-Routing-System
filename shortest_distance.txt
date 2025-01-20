@@ -1,0 +1,8 @@
+Shortest Path From router A to router E:
+Dijkstra Algorithm:
+A -> B -> D -> E
+with total Cost of: 24
+-------------------------------------------------
+BFS Algorithm:
+A -> B -> E
+with total Cost of: 25
